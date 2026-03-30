@@ -625,6 +625,9 @@ body.light-mode #themeToggle {
         padding: 30px 20px 160px;
         text-align: center;
     }
+    .container::before{
+        display: none;
+    }
 
     .songlist{
         width: 100%;
@@ -644,6 +647,9 @@ body.light-mode #themeToggle {
     h1{
         font-size: 2.4rem;
         margin-left: 0;
+    }
+    h1::after{
+        display: none;
     }
 }
 @media (max-width: 768px){
