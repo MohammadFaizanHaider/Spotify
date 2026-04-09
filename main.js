@@ -11,10 +11,10 @@ let songs=[
     {songName: "Anuv Jain - HUSN (Lyrics)", filePath: "songs/3.mpeg", coverPath: "cover/3.jpg", duration: "3:38"},
     {songName: "Mera Maan (Unplugged)", filePath: "songs/4.mpeg", coverPath: "cover/4.jpg", duration: "00:59"},
     {songName: "Set Fire To The Rain", filePath: "songs/5.mpeg", coverPath: "cover/5.jpg", duration: "04:15"},
-    {songName: "AFSOS - Anuv Jain Ft. AP Dhillon  Lyrics", filePath: "songs/7.mpeg", coverPath: "cover/7.jpg", duration: "03:11"},
-    {songName: "AUR - SHIKAYAT - Raffey - Usama - Ahad", filePath: "songs/8.mpeg", coverPath: "cover/8.jpg", duration: "04:32"},
-    {songName: "Keane - Somewhere Only We Know", filePath: "songs/9.mpeg", coverPath: "cover/9.jpg", duration: "03:53"},
-    {songName: "Kya Sach Ho Tum - Amna Riaz (Original Audio)", filePath: "songs/10.mpeg", coverPath: "cover/10.jpg", duration: "03:24"},
+    {songName: "AFSOS - Anuv Jain Ft. AP Dhillon  Lyrics", filePath: "songs/6.mpeg", coverPath: "cover/6.jpg", duration: "03:11"},
+    {songName: "AUR - SHIKAYAT - Raffey - Usama - Ahad", filePath: "songs/7.mpeg", coverPath: "cover/7.jpg", duration: "04:32"},
+    {songName: "Keane - Somewhere Only We Know", filePath: "songs/8.mpeg", coverPath: "cover/8.jpg", duration: "03:53"},
+    {songName: "Kya Sach Ho Tum - Amna Riaz (Original Audio)", filePath: "songs/9.mpeg", coverPath: "cover/9.jpg", duration: "03:24"},
 ]
 
 songItems.forEach((element,i)=>{
